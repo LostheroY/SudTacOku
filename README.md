@@ -1,4 +1,4 @@
-![SudTacOku Screenshot](https://i.imgur.com/l0ZCjuk.png?1 "SudTacOku Screenshot")
+![SudTacOku Screenshot](https://i.imgur.com/l0ZCjuk.png "SudTacOku Screenshot")
 
 
 # SudTacOku
