@@ -1,5 +1,6 @@
-![SudTacOku Screenshot](https://i.imgur.com/l0ZCjuk.png "SudTacOku Screenshot")
-
+<div style="text-align:center">
+ ![SudTacOku Screenshot](https://i.imgur.com/l0ZCjuk.png "SudTacOku Screenshot")
+</div>
 
 # SudTacOku
 [![GitHub release](https://img.shields.io/github/v/release/Yyassin/SudTacOku.svg?colorB=97CA00?label=version)](https://github.com/Yyassin/SudTacOku/releases/latest) [![Github All Releases](https://img.shields.io/github/downloads/Yyassin/SudTacOku/total.svg?colorB=97CA00)](https://github.com/Yyassin/SudTacOku/releases) [![GitHub stars](https://img.shields.io/github/stars/Yyassin/SudTacOku.svg?colorB=007EC6)](https://github.comYyassin/SudTacOku/stargazers)  [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/Yyassin/SudTacOku/master/LICENSE)
