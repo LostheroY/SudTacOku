@@ -1,5 +1,4 @@
-
-<!--- ![Monstercat Visualizer Screenshot](https://i.imgur.com/cu1R235.png "Monstercat Visualizer Screenshot") ---!>
+![Monstercat Visualizer Screenshot](https://i.imgur.com/cu1R235.png "Monstercat Visualizer Screenshot")
 
 
 # SudTacOku
