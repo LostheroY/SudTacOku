@@ -1,5 +1,5 @@
 <div style="text-align:center">
- ![SudTacOku Screenshot](https://i.imgur.com/l0ZCjuk.png "SudTacOku Screenshot")
+ <img src= "https://i.imgur.com/l0ZCjuk.png" />
 </div>
 
 # SudTacOku
