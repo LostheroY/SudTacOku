@@ -1,5 +1,5 @@
 
-<span title="I am hovering over the text">
+<span title="SudTacOku Game Page Screenshot">
  <p align="center">
   <img src="https://i.imgur.com/l0ZCjuk.png">
  </p>
