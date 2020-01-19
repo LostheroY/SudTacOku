@@ -1,13 +1,11 @@
-# SudTacOku
-Similar to TicTacToe, SudTacOku is an original game concept that blends everyone's favourite game with Sudoku! Present with settings support, the goal of the game is to allow the sum of a row to match the goalsum.
 
 ![Monstercat Visualizer Screenshot](https://i.imgur.com/cu1R235.png "Monstercat Visualizer Screenshot")
 
 
-# Monstercat Visualizer
+# SudTacOku
 [![GitHub release](https://img.shields.io/github/release/MarcoPixel/Monstercat-Visualizer.svg?colorB=97CA00?label=version)](https://github.com/MarcoPixel/Monstercat-Visualizer/releases/latest) [![Github All Releases](https://img.shields.io/github/downloads/MarcoPixel/Monstercat-Visualizer/total.svg?colorB=97CA00)](https://github.com/MarcoPixel/Monstercat-Visualizer/releases) [![GitHub stars](https://img.shields.io/github/stars/MarcoPixel/Monstercat-Visualizer.svg?colorB=007EC6)](https://github.com/MarcoPixel/Monstercat-Visualizer/stargazers)  [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/MarcoPixel/Monstercat-Visualizer/master/LICENSE)
 
-A real time audio visualizer for Rainmeter similar to the ones used in the Monstercat videos.
+Similar to TicTacToe, SudTacOku is an original game concept that blends everyone's favourite game with Sudoku! Present with settings support, the goal of the game is to allow the sum of a row to match the goalsum.deos.
 
 Supports all major media players, including full **Spotify**, **Google Play Music Desktop Player** and **Chrome/Firefox webplayer** support (thanks to **[@tjhrulz](https://github.com/tjhrulz)** and **[@khanhas](https://github.com/khanhas)**)  for the amazing plugins used in this skin).
 
