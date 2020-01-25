@@ -19,9 +19,9 @@
 
 ## Features
 * Settings page
- * Change goalsum, player names and colours
+  * Change goalsum, player names and colours
 * Gameplay board
- * Housed with an elegant UI, the board displays the current turn and set goal sum. 
+  * Housed with an elegant UI, the board displays the current turn and set goal sum. 
 
 ## Installation
 
