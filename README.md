@@ -14,24 +14,27 @@
 <!--- Supports all major media players, including full **Spotify**, **Google Play Music Desktop Player** and **Chrome/Firefox webplayer** support (thanks to **[@tjhrulz](https://github.com/tjhrulz)** and **[@khanhas](https://github.com/khanhas)**)  for the amazing plugins used in this skin). --->
 
 ## Minimum Requirements:
- - Windows 7 or higher.
+ - Windows 7 or later
+ - Java SE 10 or later.
 
 ## Features
+* Settings page
+ * Change goalsum, player names and colours
+* Gameplay board
+ * Housed with an elegant UI, the board displays the current turn and set goal sum. 
 
-- 
-
-## Important notes
-
-
-- 
 ## Installation
 
-* Download the latest 
+You will first need to clone the repository to your local machine:
+```
+git clone https://github.com/Yyassin/stockpreme.git
+```
+* Navigate to the directory and run the executable *sudtacoku.jar* file.
 * You're done! 🎉
-
 
 ## Credits
 
-- **Game Logic** - **[@youf](https://github.com/Yyassin) 
+- **Game Logic, Navigation, Forms, UI** - **[@youf](https://github.com/Yyassin) 
+- **Settings** - Abdalla Abdelhadi
 
 ##### Disclaimer: The resources used in this skin are in no way endorsed by the respective owners.
