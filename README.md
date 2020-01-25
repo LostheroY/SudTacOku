@@ -32,6 +32,11 @@ git clone https://github.com/Yyassin/stockpreme.git
 * Navigate to the directory and run the executable *sudtacoku.jar* file.
 * You're done! 🎉
 
+## Playing Instructions
+
+*
+
+
 ## Credits
 
 - **Game Logic, Navigation, Forms, UI** - **[@youf](https://github.com/Yyassin) 
