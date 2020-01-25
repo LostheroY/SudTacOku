@@ -34,8 +34,9 @@ git clone https://github.com/Yyassin/stockpreme.git
 
 ## Playing Instructions
 
-* Sud Tac Oku is a game that combines all the fun aspects from your favourite games.  It is a compelling 1v1 game that you can play against your friends to see who truly is the most superior gaming genius. This game tests your mental math skills as well as your tactical prowess.4
-* The objective is to place randomly generated numbers ranging from *x -> y* (depending on the set goalsum) at a time in a 3x3 sudoku grid. * The last player to place a number within any line (horizontal, vertical, or diagonal), with the numbers adding up to "goalsum", wins!
+* Sud Tac Oku is a game that combines all the fun aspects from your favourite games.  It is a compelling 1v1 game that you can play against your friends to see who truly is the most superior gaming genius. This game tests your mental math skills as well as your tactical prowess.
+* The objective is to place randomly generated numbers ranging from *x -> y* (depending on the set goalsum) at a time in a 3x3 sudoku grid.
+* The last player to place a number within any line (horizontal, vertical, or diagonal), with the numbers adding up to "goalsum", wins!
 
 
 ## Credits
